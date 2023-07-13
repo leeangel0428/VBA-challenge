@@ -5,7 +5,9 @@ In this specific challenge, we were given a workbook with multi-year stock data 
 I was unable to add the excel workbook itself as the file size is too large. Hopefully the screenshots will suffice.
 In this submission, you will find: 3 screenshots of the worksheets in the workbook organized by year (2018, 2019, 2020), a text file with my macro, and the reference images.
 The text file with my macro includes comments on my thought process for writing my macro.
-Please note that I used a lovely website referenced below to find the code to fill some of my cells with color. Otherwise, everything else was retained information gathered from my classes and class activities.
+Please note that I used a lovely website referenced below to find the code to fill some of my cells with color. Otherwise, everything else was retained information gathered from my classes and class activities. 
+
+Big shout out to my bootcamp TAs Sam and Randy for all their help answering my questions regarding GitHub and repositories during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support. 
 
 Citations:
 McRitchie, D. (2020,09,30). Excel Color Palette and Color Index Change using VBA. Retrieved from http://dmcritchie.mvps.org/excel/colors.htm
