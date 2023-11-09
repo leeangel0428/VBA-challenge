@@ -14,8 +14,4 @@ Big shout out to my bootcamp TAs Sam and Randy for all their help answering my q
 ### Citations:
 McRitchie, D. (2020,09,30). Excel Color Palette and Color Index Change using VBA. Retrieved from http://dmcritchie.mvps.org/excel/colors.htm
 
-### Grade: 
-![Screenshot 2023-10-15 215308](https://github.com/leeangel0428/Excel_analysis/assets/137225965/7ffb12f2-39bd-4b52-9129-d3656f1a51e8)
-
-![Screenshot 2023-10-15 215313](https://github.com/leeangel0428/Excel_analysis/assets/137225965/9e699744-705d-4d58-b5ba-a4b9e6ba69e3)
 
